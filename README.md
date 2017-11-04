@@ -8,4 +8,4 @@ php server/server.php
 then in your browser open websocket-chat/client url enter your name and test socket chat !
 
 ### feel free to ask any question ###
-*info@mrfarhad.ir
+- info@mrfarhad.ir
