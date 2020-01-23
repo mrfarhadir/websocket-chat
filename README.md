@@ -1,3 +1,4 @@
+``` This Repository is only for educational purpose```
 # websocket-chat
 complete chat app based on web socket
 how to use 
